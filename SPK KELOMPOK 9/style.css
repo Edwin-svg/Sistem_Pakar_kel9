@@ -1,0 +1,92 @@
+.navbarr{
+    margin-left: auto;
+}
+
+.navbar{
+    background-color: seagreen;
+}
+
+.top_left_cont{
+    background-color: black;
+}
+
+.jumbotron{
+    text-align: center;
+    align-items: center;
+    color: white;
+    background-size: cover;
+    height: 295px;
+    background-image: url(img/bg1.jpg);
+}
+
+.contron{
+    padding-top: 90px;
+}
+
+.contron p{
+    color: black;
+    font-size: 14px;
+}
+
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+
+.jumbotron2{
+    height: 260px;
+    padding-top: 60px;
+    text-align: center;
+    align-items: center;
+    color: black;
+    background-size: cover;
+}
+
+.jumbotron2 h3{
+    font-size: 16px;
+}
+
+.jumbotron2 h1{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.jumbotron2 p{
+    font-size: 11px;
+}
+
+.jumbotron3{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    text-align: center;
+    align-items: center;
+    color: black;
+    background-image: url(img/bg1.jpg);
+}
+
+.jumbotron3 p{
+    font-size: 11px;
+}
+.jumbotron3 h4{
+    font-size: 12px;
+}
+
+.jumbotron4{
+    text-align: center;
+    align-items: center;
+    background-image: url(img/bg1.jpg);
+}
+
+.contron4 .pengetauhan{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.contron4{
+    padding: 20px;
+}
+
+
+@media (min-width: 992px){
+
+}

@@ -1,0 +1,18 @@
+body{
+    background-image: url(img/bg1.jpg);
+}
+.hero{
+    align-items: center;
+    text-align: center;
+}
+.contain{
+    padding: 30px;
+}
+
+.read_more2{
+    width: 60px;
+    height: 30px;
+    text-decoration: none;
+    background-color: brown;
+}
+
